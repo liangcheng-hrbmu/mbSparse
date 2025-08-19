@@ -1,0 +1,214 @@
+phenotype,taxonomy rank level,NCBI taxon id,scientific name,super kingdom,Nr. runs in which the species/genus can be found,mean relative abundance,median relative abundance,SD of relative abundance
+D011236,species,546,Citrobacter freundii,Bacteria,1,0.30276,0.30276,
+D011236,species,550,Enterobacter cloacae,Bacteria,2,0.02317,0.02317,0.00854185
+D011236,species,562,Escherichia coli,Bacteria,12,0.298669167,0.06377,0.484163724
+D011236,species,573,Klebsiella pneumoniae,Bacteria,1,0.17899,0.17899,
+D011236,species,729,Haemophilus parainfluenzae,Bacteria,5,2.890198,0.32479,6.05798014
+D011236,species,732,Aggregatibacter aphrophilus,Bacteria,1,0.05041,0.05041,
+D011236,species,739,Aggregatibacter segnis,Bacteria,1,0.00239,0.00239,
+D011236,species,817,Bacteroides fragilis,Bacteria,4,0.590015,0.62568,0.465993526
+D011236,species,818,Bacteroides thetaiotaomicron,Bacteria,19,2.242304737,0.13363,6.675841977
+D011236,species,820,Bacteroides uniformis,Bacteria,25,10.2490388,5.96972,10.94870526
+D011236,species,821,Bacteroides vulgatus,Bacteria,23,2.327192174,0.56727,3.808706491
+D011236,species,823,Parabacteroides distasonis,Bacteria,18,1.345936667,0.67702,2.132767517
+D011236,species,847,Oxalobacter formigenes,Bacteria,4,0.0303225,0.010815,0.045001381
+D011236,species,851,Fusobacterium nucleatum,Bacteria,1,0.0013,0.0013,
+D011236,species,853,Faecalibacterium prausnitzii,Bacteria,22,2.446847273,1.63808,2.607233535
+D011236,species,876,Desulfovibrio desulfuricans,Bacteria,1,0.42233,0.42233,
+D011236,species,1254,Pediococcus acidilactici,Bacteria,1,0.0884,0.0884,
+D011236,species,1260,Finegoldia magna,Bacteria,3,0.003403333,0.00337,0.000680612
+D011236,species,1264,Ruminococcus albus,Bacteria,1,0.0007,0.0007,
+D011236,species,1280,Staphylococcus aureus,Bacteria,1,0.01079,0.01079,
+D011236,species,1302,Streptococcus gordonii,Bacteria,2,0.01264,0.01264,0.014778532
+D011236,species,1304,Streptococcus salivarius,Bacteria,21,0.575841429,0.04201,1.603568789
+D011236,species,1305,Streptococcus sanguinis,Bacteria,7,0.022938571,0.00303,0.043573154
+D011236,species,1308,Streptococcus thermophilus,Bacteria,18,0.159637222,0.032225,0.241793336
+D011236,species,1309,Streptococcus mutans,Bacteria,3,0.020653333,0.00606,0.026621212
+D011236,species,1311,Streptococcus agalactiae,Bacteria,1,0.56089,0.56089,
+D011236,species,1318,Streptococcus parasanguinis,Bacteria,17,0.198575294,0.03551,0.639936649
+D011236,species,1322,Blautia hansenii,Bacteria,2,0.023175,0.023175,0.029945972
+D011236,species,1328,Streptococcus anginosus,Bacteria,2,0.000455,0.000455,0.00013435
+D011236,species,1338,Streptococcus intermedius,Bacteria,1,0.00958,0.00958,
+D011236,species,1343,Streptococcus vestibularis,Bacteria,6,0.93726,0.0166,2.24917719
+D011236,species,1352,Enterococcus faecium,Bacteria,1,0.00037,0.00037,
+D011236,species,1358,Lactococcus lactis,Bacteria,11,0.039191818,0.01233,0.043218294
+D011236,species,1379,Gemella haemolysans,Bacteria,1,0.01131,0.01131,
+D011236,species,1382,Atopobium parvulum,Bacteria,2,0.008,0.008,0.010705597
+D011236,species,1492,Clostridium butyricum,Bacteria,2,0.015645,0.015645,0.002708219
+D011236,species,1502,Clostridium perfringens,Bacteria,1,0.13311,0.13311,
+D011236,species,1512,Clostridium symbiosum,Bacteria,13,0.142072308,0.0215,0.240933337
+D011236,species,1522,Clostridium innocuum,Bacteria,12,0.07808,0.005315,0.171859773
+D011236,species,1531,Enterocloster clostridioformis,Bacteria,11,0.138997273,0.02632,0.293804526
+D011236,species,1535,Clostridium leptum,Bacteria,19,0.086777368,0.03982,0.105141871
+D011236,species,1547,Erysipelatoclostridium ramosum,Bacteria,6,0.101815,0.01871,0.21315843
+D011236,species,1582,Lactobacillus casei,Bacteria,5,0.044344,0.03444,0.054031133
+D011236,species,1584,Lactobacillus delbrueckii,Bacteria,2,0.39609,0.39609,0.554216153
+D011236,species,1598,Lactobacillus reuteri,Bacteria,1,0.25601,0.25601,
+D011236,species,1599,Lactobacillus sakei,Bacteria,1,0.01388,0.01388,
+D011236,species,1605,Lactobacillus animalis,Bacteria,1,0.25295,0.25295,
+D011236,species,1622,Lactobacillus murinus,Bacteria,1,0.03531,0.03531,
+D011236,species,1655,Actinomyces naeslundii,Bacteria,1,0.0079,0.0079,
+D011236,species,1656,Actinomyces viscosus,Bacteria,1,0.01176,0.01176,
+D011236,species,1660,Actinomyces odontolyticus,Bacteria,3,0.003046667,0.00293,0.000980221
+D011236,species,1680,Bifidobacterium adolescentis,Bacteria,3,0.06053,0.05461,0.03443381
+D011236,species,1681,Bifidobacterium bifidum,Bacteria,2,0.16578,0.16578,0.052948156
+D011236,species,1689,Bifidobacterium dentium,Bacteria,2,0.05856,0.05856,0.004596194
+D011236,species,1694,Bifidobacterium pseudolongum,Bacteria,1,1.89467,1.89467,
+D011236,species,1735,Holdemanella biformis,Bacteria,2,3.96538,3.96538,0.2108451
+D011236,species,1736,Eubacterium limosum,Bacteria,2,0.226875,0.226875,0.2979253
+D011236,species,1744,Propionibacterium freudenreichii,Bacteria,5,0.256024,0.02549,0.515779919
+D011236,species,1833,Rhodococcus erythropolis,Bacteria,1,0.00112,0.00112,
+D011236,species,2047,Rothia dentocariosa,Bacteria,1,0.01301,0.01301,
+D011236,species,2173,Methanobrevibacter smithii,Archaea,6,1.165233333,0.195975,2.433482265
+D011236,species,28025,Bifidobacterium animalis,Bacteria,3,0.11951,0.01039,0.193286608
+D011236,species,28026,Bifidobacterium pseudocatenulatum,Bacteria,1,0.1156,0.1156,
+D011236,species,28037,Streptococcus mitis,Bacteria,5,0.019738,0.00674,0.033428478
+D011236,species,28038,Lactobacillus curvatus,Bacteria,2,0.001875,0.001875,0.001534422
+D011236,species,28111,Bacteroides eggerthii,Bacteria,21,11.59949762,8.84631,13.72577461
+D011236,species,28116,Bacteroides ovatus,Bacteria,25,2.2730212,0.58332,6.205210779
+D011236,species,28117,Alistipes putredinis,Bacteria,20,5.74089,3.88205,5.605281381
+D011236,species,28118,Odoribacter splanchnicus,Bacteria,13,0.684132308,0.73338,0.344009744
+D011236,species,28123,Porphyromonas asaccharolytica,Bacteria,3,0.04715,0.04408,0.0390556
+D011236,species,28127,Prevotella buccalis,Bacteria,1,0.02469,0.02469,
+D011236,species,28130,Prevotella disiens,Bacteria,2,0.01094,0.01094,0.007396337
+D011236,species,29347,Clostridium scindens,Bacteria,11,0.015598182,0.0179,0.013388563
+D011236,species,29348,Thomasclavelia spiroformis,Bacteria,3,0.409616667,0.44151,0.215041196
+D011236,species,29361,Tyzzerella nexilis,Bacteria,6,0.856175,0.31445,1.354359279
+D011236,species,29466,Veillonella parvula,Bacteria,8,0.26793875,0.029665,0.351806473
+D011236,species,31971,Amedibacillus dolichus,Bacteria,4,0.07506,0.0769,0.069492607
+D011236,species,33035,Blautia producta,Bacteria,8,0.31313,0.02334,0.769680303
+D011236,species,33037,Anaerococcus vaginalis,Bacteria,2,0.003055,0.003055,0.001166726
+D011236,species,33038,Ruminococcus gnavus,Bacteria,21,1.941192857,0.15676,4.43453208
+D011236,species,33039,Ruminococcus torques,Bacteria,25,1.3491044,0.4731,2.198233566
+D011236,species,33959,Lactobacillus johnsonii,Bacteria,5,0.036382,0.00274,0.076279324
+D011236,species,35517,Eubacterium brachy,Bacteria,2,0.006155,0.006155,0.002326381
+D011236,species,35833,Bilophila wadsworthia,Bacteria,11,0.019678182,0.01773,0.018123247
+D011236,species,39485,Lachnospira eligens,Bacteria,11,1.037481818,0.20738,2.829746577
+D011236,species,39486,Dorea formicigenerans,Bacteria,16,0.697325625,0.541075,0.622755604
+D011236,species,39488,Anaerobutyricum hallii,Bacteria,16,1.873868125,0.6198,3.03605236
+D011236,species,39490,Eubacterium ramulus,Bacteria,13,0.550171538,0.33262,0.608804469
+D011236,species,39491,Agathobacter rectalis,Bacteria,25,4.7964836,2.14392,7.958310608
+D011236,species,39492,Eubacterium siraeum,Bacteria,9,2.638352222,0.04042,7.120973748
+D011236,species,39496,Eubacterium ventriosum,Bacteria,9,0.123463333,0.06683,0.1408516
+D011236,species,39777,Veillonella atypica,Bacteria,5,0.104842,0.02864,0.17280637
+D011236,species,39778,Veillonella dispar,Bacteria,4,0.0204075,0.011465,0.024143187
+D011236,species,40518,Ruminococcus bromii,Bacteria,10,2.638225,2.04144,2.594947956
+D011236,species,40519,Ruminococcus callidus,Bacteria,6,0.513563333,0.42977,0.559324665
+D011236,species,40520,Blautia obeum,Bacteria,22,0.566507273,0.21261,0.741150667
+D011236,species,40545,Sutterella wadsworthensis,Bacteria,4,1.4522425,1.44788,1.485240296
+D011236,species,43675,Rothia mucilaginosa,Bacteria,1,0.03874,0.03874,
+D011236,species,45634,Streptococcus cristatus,Bacteria,1,0.0016,0.0016,
+D011236,species,46124,Granulicatella adiacens,Bacteria,2,0.00436,0.00436,0.003295118
+D011236,species,46125,Abiotrophia defectiva,Bacteria,2,0.000345,0.000345,9.19E-05
+D011236,species,46228,Ruminococcus lactaris,Bacteria,11,0.601302727,0.43583,0.546850648
+D011236,species,46503,Parabacteroides merdae,Bacteria,18,2.320233333,1.532345,2.383508081
+D011236,species,46506,Bacteroides stercoris,Bacteria,25,7.4313316,2.33075,11.72102257
+D011236,species,47678,Bacteroides caccae,Bacteria,19,1.839365263,1.15773,2.687257595
+D011236,species,47715,Lactobacillus rhamnosus,Bacteria,3,0.042183333,0.03516,0.027408412
+D011236,species,53443,Blautia hydrogenotrophica,Bacteria,11,0.030125455,0.01385,0.041035582
+D011236,species,55565,Actinomyces graevenitzii,Bacteria,6,0.003553333,0.00186,0.003264676
+D011236,species,57037,Lactobacillus zeae,Bacteria,1,0.01759,0.01759,
+D011236,species,59310,Streptococcus macedonicus,Bacteria,1,0.04528,0.04528,
+D011236,species,61171,Holdemania filiformis,Bacteria,19,0.036947895,0.00482,0.081009759
+D011236,species,61592,Corynebacterium durum,Bacteria,1,0.00624,0.00624,
+D011236,species,68892,Streptococcus infantis,Bacteria,2,0.051675,0.051675,0.061737493
+D011236,species,74426,Collinsella aerofaciens,Bacteria,10,1.960599,0.68163,2.797225023
+D011236,species,76860,Streptococcus constellatus,Bacteria,1,0.00768,0.00768,
+D011236,species,84112,Eggerthella lenta,Bacteria,14,0.006557857,0.003345,0.007640651
+D011236,species,84135,Gemella sanguinis,Bacteria,3,0.002906667,0.00278,0.002632287
+D011236,species,88431,Dorea longicatena,Bacteria,17,1.390607647,0.84766,1.496453999
+D011236,species,89153,Clostridium hylemonae,Bacteria,8,0.31145875,0.007385,0.768485309
+D011236,species,105841,Anaerostipes caccae,Bacteria,7,1.359987143,0.0522,3.423525248
+D011236,species,106588,Pseudoflavonifractor capillosus,Bacteria,6,0.00808,0.00623,0.007122292
+D011236,species,113107,Streptococcus australis,Bacteria,7,0.038177143,0.01513,0.049267266
+D011236,species,116085,Coprococcus catus,Bacteria,14,0.329793571,0.152825,0.386352192
+D011236,species,135083,Selenomonas noxia,Bacteria,2,0.0022,0.0022,9.90E-05
+D011236,species,137591,Weissella cibaria,Bacteria,1,0.0003,0.0003,
+D011236,species,147207,Collinsella intestinalis,Bacteria,6,0.500331667,0.124835,0.710467159
+D011236,species,147802,Lactobacillus iners,Bacteria,1,0.3114,0.3114,
+D011236,species,154046,Hungatella hathewayi,Bacteria,12,0.115698333,0.02353,0.249388442
+D011236,species,154288,Turicibacter sanguinis,Bacteria,6,0.029531667,0.021855,0.032642796
+D011236,species,165179,Prevotella copri,Bacteria,6,7.35721,0.64506,15.30016944
+D011236,species,166486,Roseburia intestinalis,Bacteria,15,1.142938667,0.51899,1.553154765
+D011236,species,169435,Anaerotruncus colihominis,Bacteria,16,0.055743125,0.025865,0.085647192
+D011236,species,187326,Megasphaera micronuciformis,Bacteria,1,0.00606,0.00606,
+D011236,species,204516,Bacteroides massiliensis,Bacteria,18,2.923727778,1.44023,3.784585873
+D011236,species,208479,Enterocloster bolteae,Bacteria,21,1.054769048,0.09363,3.547805061
+D011236,species,214853,Anaerofustis stercorihominis,Bacteria,8,0.0135725,0.01116,0.00891202
+D011236,species,214856,Alistipes finegoldii,Bacteria,19,0.232415789,0.09698,0.297309958
+D011236,species,216816,Bifidobacterium longum,Bacteria,9,1.71669,1.10211,2.014068198
+D011236,species,218538,Dialister invisus,Bacteria,22,5.804077273,2.48675,11.13807233
+D011236,species,239935,Akkermansia muciniphila,Bacteria,17,0.629807647,0.08989,1.267618568
+D011236,species,242750,Prevotella bergensis,Bacteria,1,0.00129,0.00129,
+D011236,species,246787,Bacteroides cellulosilyticus,Bacteria,20,1.94424,0.222335,3.246643119
+D011236,species,261299,Intestinibacter bartlettii,Bacteria,17,0.475127647,0.08459,0.554292683
+D011236,species,291644,Bacteroides salyersiae,Bacteria,2,2.95735,2.95735,1.553810583
+D011236,species,291645,Bacteroides nordii,Bacteria,16,0.309290625,0.133905,0.359651584
+D011236,species,292800,Flavonifractor plautii,Bacteria,18,0.082506111,0.03276,0.119950931
+D011236,species,301301,Roseburia hominis,Bacteria,13,1.05736,0.86768,1.170023162
+D011236,species,328812,Parabacteroides goldsteinii,Bacteria,1,0.41997,0.41997,
+D011236,species,328813,Alistipes onderdonkii,Bacteria,22,2.111346364,0.189315,6.752990255
+D011236,species,328814,Alistipes shahii,Bacteria,17,1.014770588,0.89256,1.317303666
+D011236,species,329854,Bacteroides intestinalis,Bacteria,10,0.037192,0.008635,0.068322942
+D011236,species,333367,Enterocloster asparagiformis,Bacteria,6,0.089536667,0.03929,0.10541159
+D011236,species,338188,Bacteroides finegoldii,Bacteria,3,0.370213333,0.0294,0.614705393
+D011236,species,357276,Bacteroides dorei,Bacteria,9,0.657901111,0.10814,1.12881772
+D011236,species,358743,Enterocloster citroniae,Bacteria,8,0.00860125,0.006515,0.010209268
+D011236,species,360807,Roseburia inulinivorans,Bacteria,15,0.542968667,0.15382,0.788882528
+D011236,species,371601,Bacteroides xylanisolvens,Bacteria,12,0.19424,0.0626,0.292742955
+D011236,species,386414,Prevotella timonensis,Bacteria,1,0.26574,0.26574,
+D011236,species,387661,Parabacteroides johnsonii,Bacteria,1,0.00589,0.00589,
+D011236,species,410072,Coprococcus comes,Bacteria,16,0.680469375,0.1341,1.288381367
+D011236,species,411484,Clostridium sp. SS2/1,Bacteria,1,0.71143,0.71143,
+D011236,species,419015,Alloscardovia omnicolens,Bacteria,1,0.0041,0.0041,
+D011236,species,446660,Adlercreutzia equolifaciens,Bacteria,21,0.127898571,0.08679,0.157075767
+D011236,species,457394,Bacteroides sp. 4_3_47FAA,Bacteria,2,10.20758,10.20758,5.391010384
+D011236,species,457395,Bacteroides sp. 9_1_42FAA,Bacteria,10,6.584826,5.206045,5.741230058
+D011236,species,457402,Eubacterium sp. 3_1_31,Bacteria,13,0.320150769,0.03695,0.650910573
+D011236,species,457412,Ruminococcus sp. 5_1_39BFAA,Bacteria,16,3.611485625,2.314955,4.214500182
+D011236,species,457421,Clostridiales bacterium 1_7_47FAA,Bacteria,11,0.069742727,0.03006,0.130096354
+D011236,species,457422,Erysipelotrichaceae bacterium 2_2_44A,Bacteria,16,0.033284375,0.01096,0.078053881
+D011236,species,469588,Bacteroides sp. 2_1_22,Bacteria,1,0.61436,0.61436,
+D011236,species,469592,Bacteroides sp. 3_1_19,Bacteria,1,1.09619,1.09619,
+D011236,species,469610,Burkholderiales bacterium 1_1_47,Bacteria,14,0.041570714,0.03316,0.049758412
+D011236,species,469613,Enterobacteriaceae bacterium 9_2_54FAA,Bacteria,1,0.08363,0.08363,
+D011236,species,469614,Erysipelotrichaceae bacterium 6_1_45,Bacteria,15,0.036798,0.01544,0.055363211
+D011236,species,471189,Gordonibacter pamelaeae,Bacteria,15,0.02138,0.01715,0.021240082
+D011236,species,487175,Parasutterella excrementihominis,Bacteria,16,0.04046375,0.019475,0.066385414
+D011236,species,501496,Porphyromonas bennonis,Bacteria,1,0.16262,0.16262,
+D011236,species,501571,Butyricicoccus pullicaecorum,Bacteria,3,0.027973333,0.02986,0.024195232
+D011236,species,544580,Actinomyces oris,Bacteria,1,0.01894,0.01894,
+D011236,species,544581,Actinomyces johnsonii,Bacteria,1,0.00101,0.00101,
+D011236,species,552395,Lachnospiraceae bacterium 4_1_37FAA,Bacteria,3,0.012793333,0.01781,0.010097447
+D011236,species,552396,Erysipelotrichaceae bacterium 5_2_54FAA,Bacteria,5,0.030876,0.01383,0.028084987
+D011236,species,552398,Ruminococcaceae bacterium D16,Bacteria,5,0.165736,0.06652,0.233139042
+D011236,species,626932,Alistipes indistinctus,Bacteria,14,0.145911429,0.125325,0.144946136
+D011236,species,626934,Slackia piriformis,Bacteria,1,0.01537,0.01537,
+D011236,species,626935,Collinsella tanakaei,Bacteria,2,0.15929,0.15929,0.183140656
+D011236,species,626940,Phascolarctobacterium succinatutens,Bacteria,1,0.04644,0.04644,
+D011236,species,649756,Anaerostipes hadrus,Bacteria,20,0.0897335,0.070055,0.078795081
+D011236,species,658081,Lachnospiraceae bacterium 1_1_57FAA,Bacteria,10,0.56293,0.06186,1.516127799
+D011236,species,658082,Lachnospiraceae bacterium 2_1_58FAA,Bacteria,5,0.342538,0.04212,0.605320546
+D011236,species,658083,Lachnospiraceae bacterium 6_1_63FAA,Bacteria,5,0.125654,0.02089,0.156795588
+D011236,species,658085,Lachnospiraceae bacterium 5_1_57FAA,Bacteria,12,0.088535833,0.071775,0.076814026
+D011236,species,658086,Lachnospiraceae bacterium 3_1_57FAA_CT1,Bacteria,9,0.240755556,0.04467,0.41665525
+D011236,species,658087,Lachnospiraceae bacterium 7_1_58FAA,Bacteria,24,0.09718875,0.07331,0.109673151
+D011236,species,658088,Lachnospiraceae bacterium 9_1_43BFAA,Bacteria,5,0.021582,0.003,0.041894416
+D011236,species,658089,Lachnospiraceae bacterium 5_1_63FAA,Bacteria,21,0.36289381,0.23502,0.359514922
+D011236,species,658655,Lachnospiraceae bacterium 1_4_56FAA,Bacteria,9,0.182953333,0.03305,0.316779222
+D011236,species,658657,Erysipelotrichaceae bacterium 21_3,Bacteria,11,0.010905455,0.00591,0.014094337
+D011236,species,658659,Erysipelotrichaceae bacterium 3_1_53,Bacteria,7,0.790331429,0.05501,1.472529595
+D011236,species,665950,Lachnospiraceae bacterium 3_1_46FAA,Bacteria,20,0.2367665,0.088765,0.553088597
+D011236,species,665951,Lachnospiraceae bacterium 8_1_57FAA,Bacteria,5,0.043442,0.0438,0.035189539
+D011236,species,665956,Subdoligranulum sp. 4_3_54A2FAA,Bacteria,7,0.815672857,0.32329,1.375346805
+D011236,species,674529,Bacteroides faecis,Bacteria,1,0.00206,0.00206,
+D011236,species,751585,Coprococcus sp. ART55/1,Bacteria,5,2.722674,1.62174,2.305801798
+D011236,species,908612,Alistipes sp. HGB5,Bacteria,10,3.876501,0.91951,5.860686763
+D011236,species,1070699,Clostridiaceae bacterium JC118,Bacteria,12,0.014163333,0.007215,0.018371752
+D011236,species,1099853,Coprobacter fastidiosus,Bacteria,15,0.143302667,0.13225,0.110698225
+D011236,species,1118061,Alistipes obesi,Bacteria,5,0.782876,0.69622,0.785369485
+D011236,species,1211813,Candidatus Alistipes marseilloanorexicus AP11,Bacteria,8,1.41945375,0.68264,1.785624906
+D011236,species,1226322,Oscillibacter sp. KLE 1728,Bacteria,1,0.38269,0.38269,
+D011236,species,1226323,Oscillibacter sp. KLE 1745,Bacteria,2,0.564,0.564,0.06489826
+D011236,species,1226325,Clostridium sp. KLE 1755,Bacteria,1,5.99546,5.99546,
+D011236,species,1288121,Alistipes senegalensis,Bacteria,12,0.01304,0.00616,0.017584284

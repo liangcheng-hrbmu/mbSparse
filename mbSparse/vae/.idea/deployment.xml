@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@172.31.233.228:30043">
+    <serverData>
+      <paths name="root@172.31.233.228:30043">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public13_data/lxw/R_study/scGNN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
